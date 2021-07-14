@@ -1,4 +1,4 @@
 # Blog
 张丽萍的Blog
 
-* 旧博客地址
+* 以前的博客地址 👈(https://zlppp.github.io/zlpBlog/)
