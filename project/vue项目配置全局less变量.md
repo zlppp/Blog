@@ -9,7 +9,7 @@
 npm i style-resources-loader
 ```
 
-# 在vue.config.js中配置 #
+### 在vue.config.js中配置 ###
 ```javascript
 // vue.config.js
 module.export =  {
