@@ -2,6 +2,8 @@
 ### 问题 ###
 定义的公共less变量，需要在页面中引入才可以使用
 
+### 使用 style-resources-loader 解决 ###
+
 ```javascript
 // 安装style-resources-loader
 npm i style-resources-loader
