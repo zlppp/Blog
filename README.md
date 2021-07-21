@@ -10,3 +10,4 @@
 
 # 个人学习笔记
 * [开发我的第一个npm包](./articles/npm整理vue常用指令.md)
+* [闭包](./javascript/闭包.md)
