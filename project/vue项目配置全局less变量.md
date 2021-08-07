@@ -16,6 +16,15 @@ module.export =  {
   chainWebpack: config => {
     const types = ['vue-modules', 'vue', 'normal-modules', 'normal']
     types.forEach(type => addStyleResource(config.module.rule('less').oneOf(type)))
+    types.forEach(type => {
+      config.module.rule('scss').oneOf(type).use('style-resource')
+      .loader('style-resources-loader')
+      .options({
+        patterns: [
+          path.resolve(__dirname, './src/assets/styles/variable.less')
+        ]
+      })
+    })
   }
 }
 
