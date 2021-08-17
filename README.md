@@ -1,6 +1,6 @@
 # 张丽萍的Blog
 
-## [以前的博客地址 👈 ](https://zlppp.github.io/zlpBlog/)
+### [以前的博客地址 👈 ](https://zlppp.github.io/zlpBlog/)
 
 # 开源项目
 * [【发布我的第一个npm包】整理vue3常用指令](https://github.com/zlppp/vue3-directive-npm)
