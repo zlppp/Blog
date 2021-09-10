@@ -17,3 +17,4 @@
 # vue源码笔记
 * [vue响应式原理](./vueCode/响应式原理.md)
 * [diff算法](./vueCode/diff.md)
+* [vuex](./vueCode/vuex.md)
