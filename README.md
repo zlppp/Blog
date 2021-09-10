@@ -9,7 +9,7 @@
 * [【vue】项目配置全局less变量](./project/vue项目配置全局less变量.md)
 * [【vue】项目优化](./project/项目优化.md)
 * [【记录】项目中的难点记录](./project/项目中难点记录.md)
-
+* [【记录】实现图片水印](./project/自定义图片水印指令.md)
 # 个人学习笔记
 * [闭包](./javascript/闭包.md)
 * [跨域](./javascript/跨域.md)
