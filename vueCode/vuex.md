@@ -75,3 +75,26 @@
     getter: {}
   }
 ```
+
+### 辅助函数
+```js
+import { mapState, mapGetter, mapMutation, mapActions } from 'vuex'
+
+...
+computed: {
+  ...mapState([
+    ...
+  ]),
+  ...mapGetter([
+    ...
+  ])
+},
+methods: {
+  ...mapMutation([
+    ...
+  ]),
+  ...mapAcions([
+    ...
+  ])
+}
+```

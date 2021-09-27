@@ -3,7 +3,7 @@
 * 模版会生成 `render` 函数，`render` 函数中包含所有的模版信息
 
 * 模版转换为AST语法树
-* AST语法生成 render 函数中with语法
+* AST语法生成 `render` 函数中with语法
 * render函数返回的是vnode对象
 * 其他函数（update）将vode渲染成html
 
