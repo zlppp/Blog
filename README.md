@@ -15,7 +15,7 @@
 * [闭包](./javascript/闭包.md)
 * [跨域](./javascript/跨域.md)
 
-# vue源码及笔记
+# vue笔记
 * [vue响应式原理](./vueCode/响应式原理.md)
 * [diff算法](./vueCode/diff.md)
 * [vuex](./vueCode/vuex.md)
