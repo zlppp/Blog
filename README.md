@@ -14,6 +14,7 @@
 # 个人学习笔记
 * [闭包](./javascript/闭包.md)
 * [跨域](./javascript/跨域.md)
+* [v8工作原理](https://www.yuque.com/docs/share/c219f06f-cff7-4d58-b3ce-c476a323e399?# 《V8工作原理》)
 
 # vue笔记
 * [vue响应式原理](./vueCode/响应式原理.md)
