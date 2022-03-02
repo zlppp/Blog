@@ -11,6 +11,7 @@
 * [【vue】项目优化](./project/项目优化.md)
 * [【记录】项目中的难点记录](./project/项目中难点记录.md)
 * [【记录】实现图片水印](./project/自定义图片水印指令.md)
+* [【React】自定义分享海报组件](https://github.com/zlppp/customPoster)
 # 个人学习笔记
 * [闭包](./javascript/闭包.md)
 * [跨域](./javascript/跨域.md)
